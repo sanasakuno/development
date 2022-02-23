@@ -1,3 +1,18 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th {/*table“à‚Ìth‚É‘Î‚µ‚Ä*/
+  padding: 10px;/*ã‰º¶‰E10px‚¸‚Â*/
+  background: #fff5e5;/*”wŒiF*/
+}
+table td {/*table“à‚Ìtd‚É‘Î‚µ‚Ä*/
+  padding: 3px 10px;/*ã‰º3px‚Å¶‰E10px*/
+  text-align: center;
+}
+table th, table td {
+  border: solid 1px black;
+  /*Àü 1px •*/
+}
 td {
-	text-align: center;
 }
