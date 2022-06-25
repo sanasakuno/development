@@ -2,17 +2,17 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-table th {/*table“à‚Ìth‚É‘Î‚µ‚Ä*/
-  padding: 10px;/*ã‰º¶‰E10px‚¸‚Â*/
-  background: #fff5e5;/*”wŒiF*/
+table th {/*tableå†…ã®thã«å¯¾ã—ã¦*/
+  padding: 10px;/*ä¸Šä¸‹å·¦å³10pxãšã¤*/
+  background: #fff5e5;/*èƒŒæ™¯è‰²*/
 }
-table td {/*table“à‚Ìtd‚É‘Î‚µ‚Ä*/
-  padding: 3px 10px;/*ã‰º3px‚Å¶‰E10px*/
+table td {/*tableå†…ã®tdã«å¯¾ã—ã¦*/
+  padding: 3px 10px;/*ä¸Šä¸‹3pxã§å·¦å³10px*/
   text-align: center;
 }
 table th, table td {
   border: solid 1px black;
-  /*Àü 1px •*/
+  /*å®Ÿç·š 1px é»’*/
 }
 td {
 }
